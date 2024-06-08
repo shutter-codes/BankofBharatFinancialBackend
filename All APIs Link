@@ -1,0 +1,7 @@
+http://localhost:7777/finance/v1/bank/v4/bharat/create-account
+http://localhost:7777/finance/v1/bank/v4/bharat/update-account-details
+http://localhost:7777/finance/v1/bank/v4/bharat/get-account-details/302668029483/BOB9793
+http://localhost:7777/finance/v1/bank/v4/bharat/delete-account
+http://localhost:7777/finance/v1/bank/v4/bharat/credit-money
+http://localhost:7777/finance/v1/bank/v4/bharat/credit-money
+http://localhost:7777/finance/v1/bank/v4/bharat/debit-money

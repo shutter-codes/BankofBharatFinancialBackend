@@ -1,0 +1,4 @@
+http://localhost:7777/finance/v1/bank/v4/bharat/create-account
+
+http://localhost:7777/finance/v1/bank/v4/bharat/get-account-details/450646323175/BOBI2637/2584
+http://localhost:7777/finance/v1/bank/v4/bharat/get-account-details/{ACCOUNT_NUMBER}/{IFSCCODE}/{PASSWORD}
